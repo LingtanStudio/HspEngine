@@ -1,0 +1,15 @@
+上传文档
+cd HspEngine
+
+git status  
+
+git add index.html
+
+git commit -m 'add function....'
+
+git push
+
+
+下载文档
+
+git clone https://github.com/LingtanStudio/HspEngine.git
