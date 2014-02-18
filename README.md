@@ -1,4 +1,0 @@
-HspEngine
-=========
-
-Game Engine.
