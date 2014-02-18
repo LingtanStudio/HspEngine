@@ -1,0 +1,11 @@
+cd libnge2
+./script/make-android.sh Debug
+
+cd ~/adt-bundle-linux-x86/eclipse
+./eclipse
+
+
+
+注意
+
+文件路径前面要加resource
